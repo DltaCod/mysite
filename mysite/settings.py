@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8lfvrsa^=cnnt-zhcf_uo^&u#do2f-uo4%n*d^d3$0mvo8(zp3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'secret-atoll-16152.herokuapp.com']
 
 
 # Application definition
